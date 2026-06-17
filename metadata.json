@@ -1,0 +1,6 @@
+{
+  "name": "Instagram Clone",
+  "description": "A high-fidelity minimalist Instagram clone with support for photo feeds, comments, interactive stories, Reels feed, custom posting, and persistent storage via Room.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
